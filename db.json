@@ -2,134 +2,178 @@
   "success": true,
   "products": [
     {
-      "ProductID": "1",
-      "ProductName": "KENTA",
-      "SupplierID": "1",
-      "CategoryID": "1",
-      "QuantityPerUnit": "10 boxes x 20 bags",
-      "UnitPrice": "Kenta is a strong-willed bladesmith who can make almost any weapon.",
-      "UnitsInStock": "39",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "10",
-      "Discontinued": "0",
+      "id": "1",
+      "nama": "KENTA",
+      "slogan": "Kenta is a strong-willed bladesmith who can make almost any weapon.",
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/d8881bfbce9a6f111352e17a548ca581jpg"
     },
     {
-      "ProductID": "4",
-      "ProductName": "NAIRI",
-      "SupplierID": "2",
-      "CategoryID": "2",
-      "QuantityPerUnit": "48 - 6 oz jars",
-      "UnitPrice": "Nairi is a man who chases storms looking for answers.",
-      "UnitsInStock": "53",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "0",
-      "Discontinued": "0",
+      "id": "2",
+      "nama": "NAIRI",
+      "slogan": "Nairi is a man who chases storms looking for answers.",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/5b0b33fddf4c15bdb4ed0d88f16336e6jpg"
     },
     {
-      "ProductID": "5",
-      "ProductName": "LEON",
-      "SupplierID": "2",
-      "CategoryID": "2",
-      "QuantityPerUnit": "36 boxes",
-      "UnitPrice": "Leon is a student that has extreme basketball skills.",
-      "UnitsInStock": "0",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "0",
-      "Discontinued": "1",
+      "id": "3",
+      "nama": "LEON",
+      "slogan": "Leon is a student that has extreme basketball skills.",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/bcb9d31b143c7dcbc5fe61f96ee08ce8jpg"
     },
     {
-      "ProductID": "6",
-      "ProductName": "OTHO",
-      "SupplierID": "3",
-      "CategoryID": "2",
-      "QuantityPerUnit": "12 - 8 oz jars",
-      "UnitPrice": "Otho is a university student who is the master of memory.",
-      "UnitsInStock": "120",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "25",
-      "Discontinued": "0",
+      "id": "4",
+      "nama": "OTHO",
+      "slogan": "Leon is a student that has extreme basketball skills.",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/2835767ffa229981fe53118c49e46c6bjpg"
     },
     {
-      "ProductID": "7",
-      "ProductName": "THIVA",
-      "SupplierID": "3",
-      "CategoryID": "7",
-      "QuantityPerUnit": "12 - 1 lb pkgs.",
-      "UnitPrice": "Thiva is the lead singer and musician in a band.",
-      "UnitsInStock": "15",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "10",
-      "Discontinued": "0",
-      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/aee1e4ab02bcd94780976476081bd3b1jpg"
+      "id": "5",
+      "nama": "THIVA",
+      "slogan": "Thiva is the lead singer and musician in a band.",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/2835767ffa229981fe53118c49e46c6bjpg"
     },
     {
-      "ProductID": "8",
-      "ProductName": "DIMITRI",
-      "SupplierID": "3",
-      "CategoryID": "2",
-      "QuantityPerUnit": "12 - 12 oz jars",
-      "UnitPrice": "Dimitri is the sound technology engineer and musician.",
-      "UnitsInStock": "6",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "0",
-      "Discontinued": "0",
+      "id": "6",
+      "nama": "DIMITRI",
+      "slogan": "Dimitri is the sound technology engineer and musician.",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/15614dbee6958be010982ca6b602c394jpg"
     },
     {
-      "ProductID": "15",
-      "ProductName": "D-BEE",
-      "SupplierID": "6",
-      "CategoryID": "2",
-      "QuantityPerUnit": "24 - 250 ml bottles",
-      "UnitPrice": "D-bee is a music maker and street dancer",
-      "UnitsInStock": "39",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "5",
-      "Discontinued": "0",
+      "id": "7",
+      "nama": "D-BEE",
+      "slogan": "D-bee is a music maker and street dancer",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/ece7c87a44fe248cfe93f7241fe56025jpg"
     },
     {
-      "ProductID": "44",
-      "ProductName": "MARO",
-      "SupplierID": "20",
-      "CategoryID": "2",
-      "QuantityPerUnit": "20 - 2 kg bags",
-      "UnitPrice": "Maro is a falconer",
-      "UnitsInStock": "27",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "15",
-      "Discontinued": "0",
+      "id": "8",
+      "nama": "MARO",
+      "slogan": "Maro is a falconer",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/d9df2fbe191bbf71c17c1598ae52b1a6jpg"
     },
     {
-      "ProductID": "63",
-      "ProductName": "XAYNE",
-      "SupplierID": "7",
-      "CategoryID": "2",
-      "QuantityPerUnit": "15 - 625 g jars",
-      "UnitPrice": "Xayne is a free spirited extreme athlete",
-      "UnitsInStock": "24",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "5",
-      "Discontinued": "0",
+      "id": "9",
+      "nama": "XAYNE",
+      "slogan": "Xayne is a free spirited extreme athlete",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/b3648a8d84e2f5d23499e94b9f7845f5jpg"
     },
     {
-      "ProductID": "77",
-      "ProductName": "SKYLER",
-      "SupplierID": "12",
-      "CategoryID": "2",
-      "QuantityPerUnit": "12 boxes",
-      "UnitPrice": "Skyler is an entertainment company CEO and Superstar",
-      "UnitsInStock": "32",
-      "UnitsOnOrder": "0",
-      "ReorderLevel": "15",
-      "Discontinued": "0",
+      "id": "10",
+      "nama": "SKYLER",
+      "slogan": "Xayne is a free spirited extreme athlete",
+
       "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/626d3aad6c81b740393d5f3ab2989ebbjpg"
+    },
+    {
+      "id": "11",
+      "nama": "SHIROU",
+      "slogan": "Shirou is an app-delivery boy.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/cover.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "CHRONO",
+      "slogan": "Chrono is a bounty hunter from another universe.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Chrono/cover.jpg"
+    },
+    {
+      "id": "13",
+      "nama": "DASHA",
+      "slogan": "Dasha is a prankster and rebel.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Dasha/Dasha.jpg"
+    },
+    {
+      "id": "14",
+      "nama": "K",
+      "slogan": "K is a professor and jiujitsu expert.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Kshmr/K_cover.jpg"
+    },
+    {
+      "id": "15",
+      "nama": "LUQUETA",
+      "slogan": "Luqueta is an up and rising soccer star.",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/character/Luqueta/Luqueta.jpg"
+    },
+    {
+      "id": "16",
+      "nama": "KELLY",
+      "slogan": "Kelly is a high-school sprinter",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/25dc50c9b901f87285e6cde42edaaa77jpg"
+    },
+    {
+      "id": "17",
+      "nama": "HAYATO",
+      "slogan": "Hayato is a legendary Samurai",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Hayato.jpg"
+    },
+    {
+      "id": "18",
+      "nama": "MOCO",
+      "slogan": "Moco is an outstanding hacker.",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/eb7ee71d47407352c9383ea5c4ff582bjpg"
+    },
+    {
+      "id": "19",
+      "nama": "STEFFILE",
+      "slogan": "Moco is an outstanding hacker.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/officialwebsite/character/list_img/Steffie.jpg"
+    },
+    {
+      "id": "20",
+      "nama": "MISHA",
+      "slogan": "Misha is an extremely talented racer.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Misha.jpg"
+    },
+    {
+      "id": "21",
+      "nama": "MAXIM",
+      "slogan": "Maxim is a competitive speed eater.",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/0fcc95c4d156773451488680aa82f0f6jpg"
+    },
+    {
+      "id": "22",
+      "nama": "ANDREW",
+      "slogan": "Andrew was a police officer",
+
+      "url": "https://dl.dir.freefiremobile.com/common/web_event/hash/f8b80737cb08300c0c82822f1e724737jpg"
+    },
+    {
+      "id": "23",
+      "nama": "CAROLINE",
+      "slogan": "Caroline best friend. One of the most popular girls at school.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Caroline.jpg"
+    },
+    {
+      "id": "24",
+      "nama": "RAFAEL",
+      "slogan": "Rafael is a deadly killer.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/new/Rafael.jpg"
+    },
+    {
+      "id": "25",
+      "nama": "ALOK",
+      "slogan": "Alok is a world famous DJ, ready to drop a beat.",
+
+      "url": "https://freefiremobile-a.akamaihd.net/common/officialwebsite/character/list_img/Alok.jpg"
     }
   ],
   "totalRecordCount": 10,
