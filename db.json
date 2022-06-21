@@ -144,7 +144,34 @@
       "ReorderLevel": "15",
       "Discontinued": "0",
       "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Shirou/cover.jpg"
-    }
+    },
+     {
+      "ProductID": "77",
+      "ProductName": "CHRONO",
+      "SupplierID": "12",
+      "CategoryID": "2",
+      "QuantityPerUnit": "12 boxes",
+      "UnitPrice": "Chrono is a bounty hunter from another universe.",
+      "UnitsInStock": "32",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "15",
+      "Discontinued": "0",
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Chrono/cover.jpg"
+    },
+    {
+      "ProductID": "77",
+      "ProductName": "DASHA",
+      "SupplierID": "12",
+      "CategoryID": "2",
+      "QuantityPerUnit": "12 boxes",
+      "UnitPrice": "Dasha is a prankster and rebel",
+      "UnitsInStock": "32",
+      "UnitsOnOrder": "0",
+      "ReorderLevel": "15",
+      "Discontinued": "0",
+      "url": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/character/Dasha/Dasha.jpg"
+    },
+    
     
   ],
   "totalRecordCount": 10,
