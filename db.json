@@ -3,11 +3,12 @@
   "products": [
     {
       "ProductID": "1",
+       "UnitPrice": "Kenta is a strong-willed bladesmith who can make almost any weapon.",
       "ProductName": "KENTA",
       "SupplierID": "1",
       "CategoryID": "1",
       "QuantityPerUnit": "10 boxes x 20 bags",
-      "UnitPrice": "Kenta is a strong-willed bladesmith who can make almost any weapon.",
+     
       "UnitsInStock": "39",
       "UnitsOnOrder": "0",
       "ReorderLevel": "10",
