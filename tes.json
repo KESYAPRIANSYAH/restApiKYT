@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Roti Tawar",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Roti Coklat",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "Roti Keju",
+      "price": 20000
+    }
+  ]
+}
